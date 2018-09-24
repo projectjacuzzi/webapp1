@@ -20,6 +20,7 @@
     "test:regenerate_screenshots": "mocha test/integration/screenshots-baseline/regenerate.js --timeout=15000"
   },
   "dependencies": {
+    "@google-cloud/storage": "^2.0.3",
     "@polymer/app-layout": "^3.0.0",
     "@polymer/lit-element": "^0.6.1",
     "@polymer/polymer": "^3.0.0",
