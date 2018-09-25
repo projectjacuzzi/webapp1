@@ -1,5 +1,4 @@
 {
-  "port": 8080,
   "suites": ["test/unit"],
   "plugins": {
     "local": {
